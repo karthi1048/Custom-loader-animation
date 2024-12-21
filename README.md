@@ -27,7 +27,7 @@ bash
 - Use it as a placeholder or loading indicator in your web applications.
 
 ## Animation Preview
-
+<img src="animation.gif" alt="Loading animation gif">
 
 ## Contribution
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository and create a pull request.
